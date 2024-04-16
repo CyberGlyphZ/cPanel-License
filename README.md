@@ -4,8 +4,17 @@
 Purchase your cPanel License with exclusive pricing and free add-ons!
 
 ## Features
+- Unlimited cPanel Accounts
 - Free FleetSSL License
 - Free Softaculous License
+
+## Included
+- Free License Installation
+- Free IP Changes
+- Official Update Capability
+- 24/7 Technical Support
+- Easy Hostname SSL Installation
+- Secured & Stable Licensing
 
 ### Pricing
 
